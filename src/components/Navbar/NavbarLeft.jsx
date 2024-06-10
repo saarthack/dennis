@@ -2,7 +2,9 @@ import React from 'react'
 
 const NavbarLeft = () => {
   return (
-    <div>NavbarLeft</div>
+    <div>
+      <h4 className='text-white text-xl'>© Code by Dennis</h4>
+    </div>
   )
 }
 

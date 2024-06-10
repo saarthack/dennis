@@ -5,3 +5,6 @@
 .bg{
     background-color: rgb(153 157 158);
 }
+body{
+    overflow-x: hidden;
+}
