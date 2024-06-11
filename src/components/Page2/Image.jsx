@@ -2,7 +2,9 @@ import React from 'react'
 
 const Image = () => {
   return (
-    <div>Image</div>
+    <div className='h-[20vw] w-[20vw] bg-fuchsia-500 absolute z-30'>
+      
+    </div>
   )
 }
 

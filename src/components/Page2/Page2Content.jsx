@@ -2,7 +2,7 @@ import React from 'react'
 
 const Page2Content = () => {
   return (
-    <div className='h-screen px-48'>
+    <div className='px-[7.5vw]'>
       <div className='flex justify-between items-start w-full'>
         <div className='w-3/5'>
           <h1 className='text-5xl leading-snug font-light'>Helping

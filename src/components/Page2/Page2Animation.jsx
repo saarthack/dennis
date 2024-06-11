@@ -4,8 +4,8 @@ import TextDiv from './TextDiv'
 
 const Page2Animation = () => {
   return (
-    <div>
-        <Image />
+    <div className='mt-10'>
+        
         <TextDiv />
     </div>
   )

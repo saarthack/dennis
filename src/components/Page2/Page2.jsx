@@ -5,10 +5,9 @@ import Page2Animation from './Page2Animation'
 
 const Page2 = () => {
   return (
-    <div className='px-96'>
+    <div className='px-[15vw] pb-40'>
         <Page2Content />
         <Page2Animation />
-       
     </div>
   )
 }
